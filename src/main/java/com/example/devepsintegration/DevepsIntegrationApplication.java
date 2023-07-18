@@ -12,7 +12,7 @@ public class DevepsIntegrationApplication {
     @GetMapping("/message")
     public String message ()
     {
-        return "welcome to deveps integration1";
+        return "welcome to deveps integration";
     }
 
     public static void main(String[] args) {
